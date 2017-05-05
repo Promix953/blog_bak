@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /images/
+Allow: /categories/
+Allow: /tags/
+
+Disallow: /css/
+Disallow: /js/
+Disallow: /lib/
+Disallow: /README.md
+
+Sitemap: https://promix.me/sitemap.xml
+Sitemap: https://promix.me/baidusitemap.xml
